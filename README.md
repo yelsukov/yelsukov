@@ -22,7 +22,6 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="80" height="80" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="80" height="80" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="AngularJs" alt="AngularJs" width="80" height="80" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularmaterial/angularmaterial-original.svg" title="AngularMaterial" alt="AngularMaterial" width="80" height="80" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="80" height="80" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/backbonejs/backbonejs-original-wordmark.svg" title="BackboneJs" alt="BackboneJs" width="80" height="80" />
